@@ -1,4 +1,4 @@
-# Deep Learning Based Detection of Bee Parasites
+# Deep Learning Based Detection of Wild Bee Parasites under Natural Conditions
 Svetlana Ionova · Henri Greil · Patrick Mäder · Marco Seeland 
 
 ## Data

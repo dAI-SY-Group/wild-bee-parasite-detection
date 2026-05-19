@@ -13,6 +13,7 @@ Model can be trained using `train.py`. We started from [OpenImages-v7 weights](h
 ```
 @article{Ionova2026,
   title = {Deep learning based detection of wild bee parasites under natural conditions},
+  volume = {95},
   ISSN = {1574-9541},
   url = {http://dx.doi.org/10.1016/j.ecoinf.2026.103754},
   DOI = {10.1016/j.ecoinf.2026.103754},
@@ -20,7 +21,7 @@ Model can be trained using `train.py`. We started from [OpenImages-v7 weights](h
   publisher = {Elsevier BV},
   author = {Ionova,  Svetlana and Greil,  Henri and M\"{a}der,  Patrick and Seeland,  Marco},
   year = {2026},
-  month = apr,
+  month = May,
   pages = {103754}
 }
 ```
